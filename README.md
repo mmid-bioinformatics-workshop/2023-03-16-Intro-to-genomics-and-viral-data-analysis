@@ -31,6 +31,7 @@ Since these are illumina data, use the following tools.
 Refer to the previous workshop materials! https://github.com/mmid-bioinformatics-workshop/
 
 To access Conda materials --> [Introduction to Conda and Tool installation](https://github.com/mmid-bioinformatics-workshop/2023-03-09-Intro-to-Conda-and-Tool-installation)
+&nbsp;
 
 To access Jill's detailed Conda guide --> [2022 Introduction to Conda](https://github.com/MMID-coding-workshop/2022-01-19-Introduction-to-CONDA)
 
@@ -39,8 +40,11 @@ To access Jill's detailed Conda guide --> [2022 Introduction to Conda](https://g
 ##  Required conda tool packages for the workshop
 
 [fastqc v0.12.1](https://anaconda.org/bioconda/fastqc)
+&nbsp;
 [nanoplot v1.41.0](https://anaconda.org/bioconda/nanoplot)
+&nbsp;
 [minimap2 v2.24](https://anaconda.org/bioconda/minimap2) - in lieu of [bowtie2](https://anaconda.org/bioconda/bowtie2)
+&nbsp;
 [samtools v1.16.1](https://anaconda.org/bioconda/samtools)
 
 
