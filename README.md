@@ -38,12 +38,15 @@ To access Jill's detailed Conda guide --> [2022 Introduction to Conda](https://g
 
 
 ##  Required conda tool packages for the workshop
-
+&nbsp;
 [fastqc v0.12.1](https://anaconda.org/bioconda/fastqc)
+
 &nbsp;
 [nanoplot v1.41.0](https://anaconda.org/bioconda/nanoplot)
+
 &nbsp;
 [minimap2 v2.24](https://anaconda.org/bioconda/minimap2) - in lieu of [bowtie2](https://anaconda.org/bioconda/bowtie2)
+
 &nbsp;
 [samtools v1.16.1](https://anaconda.org/bioconda/samtools)
 
