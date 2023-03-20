@@ -5,7 +5,7 @@ Date: March 16, 2023
 
 Website: https://mmid-bioinformatics-workshop.github.io/
 
-**YouTube: **
+**YouTube: https://youtu.be/mNjoKwlZ8k4**
 
 If you have any questions, feel free to ask during the workshop in-person or online!
 
@@ -54,6 +54,12 @@ To access Jill's detailed Conda guide --> [2022 Introduction to Conda](https://g
 ## Required software for the workshop
 [Integrated Genomics Viewer (IGV v2.16.0)](https://software.broadinstitute.org/software/igv/download)
 
+To run `git clone` command in your terminal, install Git in your OS.
+[Git for Windows](https://git-scm.com/download/win) 
+or 
+[Install Git via terminal](https://mas-dse.github.io/startup/git-ubuntu-install/)
+To install Git in your terminal, type the following command in your terminal.  
+`sudo apt-get install git -y`
 
 ***
 
